@@ -1,2 +1,3 @@
 # contact_keeper_mern
-Basic MERN App based on Brad Traversy's React Front to Back Udemy course
+
+Basic MERN App based on React Front to Back Udemy course
